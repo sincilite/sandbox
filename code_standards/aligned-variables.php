@@ -1,4 +1,4 @@
 <?php
 
-$foo = true;
+$foo    = true;
 $foobar = false;
