@@ -8,7 +8,7 @@
  *
  * @return Namespace\Basket $basket
  */
-function buyStuff(array $products, int $bankBalance) {
+function buyStuff(array $products, int $bankBalance): Namespace\Basket {
 
     $basket = new Namespace\Basket();
 
