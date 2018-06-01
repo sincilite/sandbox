@@ -3,4 +3,5 @@
 $array = [
     'foo',
     'bar',
+    'foobar',
 ];
