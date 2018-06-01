@@ -1,4 +1,5 @@
 <?php
 
-$foo    = true;
-$foobar = false;
+$foo            = true;
+$foobar         = false;
+$aLongerVarName = true;
